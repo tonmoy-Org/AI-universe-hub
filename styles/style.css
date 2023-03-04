@@ -1,0 +1,17 @@
+@media screen and (max-width:576px) {
+   .modal-container-sm{
+     padding-top: 20px !important;
+
+   }
+   .modal-container3{
+     width: 80px !important;
+     height: 80px !important;
+     
+   }
+   .modal-container  h6 {
+    font-size: 12px !important;
+   }
+   .list-class{
+     font-size: 12px;
+   }
+}
